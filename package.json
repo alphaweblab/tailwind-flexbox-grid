@@ -1,0 +1,25 @@
+{
+    "name": "tailwind-flexbox-grid",
+    "version": "0.1.0",
+    "description": "Flexbox grid for Tailwind CSS as plugin",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/alphaweblab/tailwind-flexbox-grid.git"
+    },
+    "keywords": [
+        "flexbox",
+        "tailwind",
+        "css",
+        "grid"
+    ],
+    "author": "Alpha Weblab",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/alphaweblab/tailwind-flexbox-grid/issues"
+    },
+    "homepage": "https://github.com/alphaweblab/tailwind-flexbox-grid#readme"
+}
